@@ -2,7 +2,7 @@ cask "chatterino-test" do
   version "2.5.4-beta.2"
   sha256 "5411315e175c71671862ed1a4d21f5b47d8da1ee9ef121fc23d47895a9413e40"
 
-  url "https://i.pajlada.se/02-chatterino-2.5.4-beta.1.dmg",
+  url "https://i.pajlada.se/test-chatterino-#{version}.dmg",
       verified: "i.pajlada.se/"
   name "Chatterino test"
   desc "Chat client for https://twitch.tv test"
